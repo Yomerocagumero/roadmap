@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+.github/ISSUE_TEMPLATEblank_issues_enabled: false
 contact_links:
   - name: GitHub Feedback
     url: https://github.com/github/feedback/discussions
